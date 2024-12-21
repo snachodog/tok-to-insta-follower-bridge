@@ -11,7 +11,7 @@ The following issues are accepted:
 - Reports of errors or problems
 - Proposals for new additions or improvements to features
 
-Please click [here](https://github.com/snachodog/tok-to-insta-bridge/issues/new) to create an issue.
+Please click [here](https://github.com/snachodog/tok-to-insta-follower-bridge/issues/new) to create an issue.
 
 ## Pull Requests
 
@@ -52,7 +52,7 @@ Additionally, when creating a pull request, please keep the following in mind:
 First, clone the forked repository locally:
 
 ```bash
-$ git clone https://github.com/kawamataryo/sky-follower-bridge.git
+$ git clone https://github.com/snachodog/tok-to-insta-follower-bridge.git
 ```
 
 Install dependencies with npm:
