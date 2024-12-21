@@ -1,6 +1,6 @@
 # Contribution Guide
 
-This is a guide on how to contribute to Sky Follower Bridge.  
+This is a guide on how to contribute to Tok to Insta Follower Bridge.  
 Contributions are welcome 🎉
 
 ## Issues
@@ -11,7 +11,7 @@ The following issues are accepted:
 - Reports of errors or problems
 - Proposals for new additions or improvements to features
 
-Please click [here](https://github.com/kawamataryo/sky-follower-bridge/issues/new) to create an issue.
+Please click [here](https://github.com/snachodog/tok-to-insta-bridge/issues/new) to create an issue.
 
 ## Pull Requests
 
@@ -71,13 +71,13 @@ When the development server starts, the extension build results are output to th
 
 You can use the built extension in your browser by loading the contents of the extensions folder in Chrome:
 
-<img width="600" alt="image" src="https://github.com/kawamataryo/sky-follower-bridge/assets/11070996/ac90d0de-8957-41d4-bb53-571583106040">
+<img width="600" alt="image" src="https://github.com/snachodog/tok-to-insta-follower-bridge/assets/11070996/ac90d0de-8957-41d4-bb53-571583106040">
 
 When you modify the code, the change is automatically reflected.
 
 ## Release
 
-When the version file of [changesets](https://github.com/changesets/changesets) is merged into master, a new version is released to each extension store with a [GitHub Actions job](https://github.com/kawamataryo/sky-follower-bridge/blob/main/.github/workflows/publish.yml).
+When the version file of [changesets](https://github.com/changesets/changesets) is merged into master, a new version is released to each extension store with a [GitHub Actions job](https://github.com/snachodog/tok-to-insta-follower-bridge/blob/main/.github/workflows/publish.yml).
 
 1. add version file
 
